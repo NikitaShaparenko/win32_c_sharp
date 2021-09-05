@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Database" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Database">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="databaseID" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseNames" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseAdultPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseChildrenPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector1" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector2" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector3" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector4" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector5" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector6" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector7" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector8" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector9" type="xs:string" minOccurs="0" />
+                <xs:element name="databaseMoneyVector10" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Database>
+    <databaseID>1507202025121</databaseID>
+    <databaseNames>Номер1</databaseNames>
+    <databaseAdultPlaces>4</databaseAdultPlaces>
+    <databaseChildrenPlaces>2</databaseChildrenPlaces>
+    <databaseMoneyVector1>1300</databaseMoneyVector1>
+    <databaseMoneyVector2>1650</databaseMoneyVector2>
+    <databaseMoneyVector3 />
+    <databaseMoneyVector4 />
+    <databaseMoneyVector5 />
+    <databaseMoneyVector6 />
+    <databaseMoneyVector7 />
+    <databaseMoneyVector8 />
+    <databaseMoneyVector9 />
+    <databaseMoneyVector10 />
+  </Database>
+  <Database>
+    <databaseID />
+    <databaseNames />
+    <databaseAdultPlaces />
+    <databaseChildrenPlaces />
+    <databaseMoneyVector1 />
+    <databaseMoneyVector2 />
+    <databaseMoneyVector3 />
+    <databaseMoneyVector4 />
+    <databaseMoneyVector5 />
+    <databaseMoneyVector6 />
+    <databaseMoneyVector7 />
+    <databaseMoneyVector8 />
+    <databaseMoneyVector9 />
+    <databaseMoneyVector10 />
+  </Database>
+</NewDataSet>

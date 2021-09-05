@@ -1,0 +1,341 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <BookingList>
+    <dbblID xml:space="preserve"> </dbblID>
+    <dbblIDRoom xml:space="preserve"> </dbblIDRoom>
+    <dbblName xml:space="preserve"> </dbblName>
+    <dbblNumPlaces xml:space="preserve"> </dbblNumPlaces>
+    <dbblCheckInTime xml:space="preserve"> </dbblCheckInTime>
+    <dbblDateIncoming xml:space="preserve"> </dbblDateIncoming>
+    <dbblCheckOutTime xml:space="preserve"> </dbblCheckOutTime>
+    <ddblDateOutComing xml:space="preserve"> </ddblDateOutComing>
+    <dbblBookingStatus xml:space="preserve"> </dbblBookingStatus>
+    <dbblAdultPlaces xml:space="preserve"> </dbblAdultPlaces>
+    <dbblPayingCost xml:space="preserve"> </dbblPayingCost>
+    <dbblPayed xml:space="preserve"> </dbblPayed>
+    <dbblDept xml:space="preserve"> </dbblDept>
+    <dbblBookingSource xml:space="preserve"> </dbblBookingSource>
+    <dbblMealType xml:space="preserve"> </dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate xml:space="preserve"> </dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries xml:space="preserve"> </dbblPassportSeries>
+    <dbblPassportNumber xml:space="preserve"> </dbblPassportNumber>
+    <dbblPassportOutcomeDate xml:space="preserve"> </dbblPassportOutcomeDate>
+    <dbblUnitCodeU1 xml:space="preserve"> </dbblUnitCodeU1>
+    <dbblUnitCodeU2 xml:space="preserve"> </dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven xml:space="preserve"> </dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID xml:space="preserve"> </dbblID>
+    <dbblIDRoom xml:space="preserve"> </dbblIDRoom>
+    <dbblName xml:space="preserve"> </dbblName>
+    <dbblNumPlaces xml:space="preserve"> </dbblNumPlaces>
+    <dbblCheckInTime xml:space="preserve"> </dbblCheckInTime>
+    <dbblDateIncoming xml:space="preserve"> </dbblDateIncoming>
+    <dbblCheckOutTime xml:space="preserve"> </dbblCheckOutTime>
+    <ddblDateOutComing xml:space="preserve"> </ddblDateOutComing>
+    <dbblBookingStatus xml:space="preserve"> </dbblBookingStatus>
+    <dbblAdultPlaces xml:space="preserve"> </dbblAdultPlaces>
+    <dbblPayingCost xml:space="preserve"> </dbblPayingCost>
+    <dbblPayed xml:space="preserve"> </dbblPayed>
+    <dbblDept xml:space="preserve"> </dbblDept>
+    <dbblBookingSource xml:space="preserve"> </dbblBookingSource>
+    <dbblMealType xml:space="preserve"> </dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate xml:space="preserve"> </dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries xml:space="preserve"> </dbblPassportSeries>
+    <dbblPassportNumber xml:space="preserve"> </dbblPassportNumber>
+    <dbblPassportOutcomeDate xml:space="preserve"> </dbblPassportOutcomeDate>
+    <dbblUnitCodeU1 xml:space="preserve"> </dbblUnitCodeU1>
+    <dbblUnitCodeU2 xml:space="preserve"> </dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven xml:space="preserve"> </dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202025505</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронирование2</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>12:15</dbblCheckInTime>
+    <dbblDateIncoming>19.07.2020 2:55:05</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>30.07.2020 2:55:05</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>1200</dbblPayingCost>
+    <dbblPayed>1500</dbblPayed>
+    <dbblDept>-300</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>FBPlus</dbblMealType>
+    <dbblComment>Комментарий</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 2:55:05</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 2:55:05</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>780</dbblUnitCodeU1>
+    <dbblUnitCodeU2>222</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Осаки</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202031816</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронь1</dbblName>
+    <dbblNumPlaces>4</dbblNumPlaces>
+    <dbblCheckInTime>12:30</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:18:15</dbblDateIncoming>
+    <dbblCheckOutTime>10:15</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:18:15</ddblDateOutComing>
+    <dbblBookingStatus>10:15</dbblBookingStatus>
+    <dbblAdultPlaces>17.07.2020 3:18:15</dbblAdultPlaces>
+    <dbblPayingCost>confirmed</dbblPayingCost>
+    <dbblPayed>3</dbblPayed>
+    <dbblDept>1200</dbblDept>
+    <dbblBookingSource>1500</dbblBookingSource>
+    <dbblMealType>-300</dbblMealType>
+    <dbblComment>reception</dbblComment>
+    <dbblCreatingDate>OB</dbblCreatingDate>
+    <dbblBirthday>Коммент номер</dbblBirthday>
+    <dbblPassportSeries>15.07.2020 0:00:00</dbblPassportSeries>
+    <dbblPassportNumber>15.07.2020 3:18:16</dbblPassportNumber>
+    <dbblPassportOutcomeDate>4013</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>918555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>15.07.2020 3:18:15</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>780</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202032033</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронь363</dbblName>
+    <dbblNumPlaces>5</dbblNumPlaces>
+    <dbblCheckInTime>13:45</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:20:33</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:20:33</ddblDateOutComing>
+    <dbblBookingStatus>11:30</dbblBookingStatus>
+    <dbblAdultPlaces>26.07.2020 3:20:33</dbblAdultPlaces>
+    <dbblPayingCost>confirmed</dbblPayingCost>
+    <dbblPayed>4</dbblPayed>
+    <dbblDept>200</dbblDept>
+    <dbblBookingSource>1400</dbblBookingSource>
+    <dbblMealType>-1200</dbblMealType>
+    <dbblComment>reception</dbblComment>
+    <dbblCreatingDate>OB</dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries>15.07.2020 0:00:00</dbblPassportSeries>
+    <dbblPassportNumber>15.07.2020 3:20:33</dbblPassportNumber>
+    <dbblPassportOutcomeDate>780</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>111</dbblUnitCodeU1>
+    <dbblUnitCodeU2>15.07.2020 3:20:33</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>780</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202032706</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронер</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>12:15</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:27:06</dbblDateIncoming>
+    <dbblCheckOutTime>11:15</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:27:06</ddblDateOutComing>
+    <dbblBookingStatus>11:15</dbblBookingStatus>
+    <dbblAdultPlaces>15.07.2020 3:27:06</dbblAdultPlaces>
+    <dbblPayingCost>confirmed</dbblPayingCost>
+    <dbblPayed>3</dbblPayed>
+    <dbblDept>1222</dbblDept>
+    <dbblBookingSource>100</dbblBookingSource>
+    <dbblMealType>1122</dbblMealType>
+    <dbblComment>reception</dbblComment>
+    <dbblCreatingDate>FBPlus</dbblCreatingDate>
+    <dbblBirthday>Коммент Токио</dbblBirthday>
+    <dbblPassportSeries>15.07.2020 0:00:00</dbblPassportSeries>
+    <dbblPassportNumber>15.07.2020 3:27:06</dbblPassportNumber>
+    <dbblPassportOutcomeDate>4013</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>918555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>15.07.2020 3:27:06</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>780</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID xml:space="preserve"> </dbblID>
+    <dbblIDRoom xml:space="preserve"> </dbblIDRoom>
+    <dbblName xml:space="preserve"> </dbblName>
+    <dbblNumPlaces xml:space="preserve"> </dbblNumPlaces>
+    <dbblCheckInTime xml:space="preserve"> </dbblCheckInTime>
+    <dbblDateIncoming xml:space="preserve"> </dbblDateIncoming>
+    <dbblCheckOutTime xml:space="preserve"> </dbblCheckOutTime>
+    <ddblDateOutComing xml:space="preserve"> </ddblDateOutComing>
+    <dbblBookingStatus xml:space="preserve"> </dbblBookingStatus>
+    <dbblAdultPlaces xml:space="preserve"> </dbblAdultPlaces>
+    <dbblPayingCost xml:space="preserve"> </dbblPayingCost>
+    <dbblPayed xml:space="preserve"> </dbblPayed>
+    <dbblDept xml:space="preserve"> </dbblDept>
+    <dbblBookingSource xml:space="preserve"> </dbblBookingSource>
+    <dbblMealType xml:space="preserve"> </dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate xml:space="preserve"> </dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries xml:space="preserve"> </dbblPassportSeries>
+    <dbblPassportNumber xml:space="preserve"> </dbblPassportNumber>
+    <dbblPassportOutcomeDate xml:space="preserve"> </dbblPassportOutcomeDate>
+    <dbblUnitCodeU1 xml:space="preserve"> </dbblUnitCodeU1>
+    <dbblUnitCodeU2 xml:space="preserve"> </dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven xml:space="preserve"> </dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202033324</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронь1507 1</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:33:24</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:33:24</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>2</dbblAdultPlaces>
+    <dbblPayingCost>1200</dbblPayingCost>
+    <dbblPayed>2500</dbblPayed>
+    <dbblDept>-1300</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>FBPlus</dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 3:33:24</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 3:33:24</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>780</dbblUnitCodeU1>
+    <dbblUnitCodeU2>022</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД округа Калифорния</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202033324</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронь1507 2</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:33:24</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:33:24</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>2</dbblAdultPlaces>
+    <dbblPayingCost>1200</dbblPayingCost>
+    <dbblPayed>2500</dbblPayed>
+    <dbblDept>-1300</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>AI</dbblMealType>
+    <dbblComment>Коммент очередной</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 3:33:24</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 3:33:24</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>780</dbblUnitCodeU1>
+    <dbblUnitCodeU2>022</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД округа Калифорния</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID xml:space="preserve"> </dbblID>
+    <dbblIDRoom xml:space="preserve"> </dbblIDRoom>
+    <dbblName xml:space="preserve"> </dbblName>
+    <dbblNumPlaces xml:space="preserve"> </dbblNumPlaces>
+    <dbblCheckInTime xml:space="preserve"> </dbblCheckInTime>
+    <dbblDateIncoming xml:space="preserve"> </dbblDateIncoming>
+    <dbblCheckOutTime xml:space="preserve"> </dbblCheckOutTime>
+    <ddblDateOutComing xml:space="preserve"> </ddblDateOutComing>
+    <dbblBookingStatus xml:space="preserve"> </dbblBookingStatus>
+    <dbblAdultPlaces xml:space="preserve"> </dbblAdultPlaces>
+    <dbblPayingCost xml:space="preserve"> </dbblPayingCost>
+    <dbblPayed xml:space="preserve"> </dbblPayed>
+    <dbblDept xml:space="preserve"> </dbblDept>
+    <dbblBookingSource xml:space="preserve"> </dbblBookingSource>
+    <dbblMealType xml:space="preserve"> </dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate xml:space="preserve"> </dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries xml:space="preserve"> </dbblPassportSeries>
+    <dbblPassportNumber xml:space="preserve"> </dbblPassportNumber>
+    <dbblPassportOutcomeDate xml:space="preserve"> </dbblPassportOutcomeDate>
+    <dbblUnitCodeU1 xml:space="preserve"> </dbblUnitCodeU1>
+    <dbblUnitCodeU2 xml:space="preserve"> </dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven xml:space="preserve"> </dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 1507202034242</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Бронь тестовая 1</dbblName>
+    <dbblNumPlaces>7</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>15.07.2020 3:42:42</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>15.07.2020 3:42:42</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>1222</dbblPayingCost>
+    <dbblPayed>222</dbblPayed>
+    <dbblDept>1000</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>AI</dbblMealType>
+    <dbblComment>Бронь чукотского эскимоса</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 3:42:42</dbblBirthday>
+    <dbblPassportSeries>780</dbblPassportSeries>
+    <dbblPassportNumber>222</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 3:42:42</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>401</dbblUnitCodeU1>
+    <dbblUnitCodeU2>322</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Чутотки</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID xml:space="preserve"> </dbblID>
+    <dbblIDRoom xml:space="preserve"> </dbblIDRoom>
+    <dbblName xml:space="preserve"> </dbblName>
+    <dbblNumPlaces xml:space="preserve"> </dbblNumPlaces>
+    <dbblCheckInTime xml:space="preserve"> </dbblCheckInTime>
+    <dbblDateIncoming xml:space="preserve"> </dbblDateIncoming>
+    <dbblCheckOutTime xml:space="preserve"> </dbblCheckOutTime>
+    <ddblDateOutComing xml:space="preserve"> </ddblDateOutComing>
+    <dbblBookingStatus xml:space="preserve"> </dbblBookingStatus>
+    <dbblAdultPlaces xml:space="preserve"> </dbblAdultPlaces>
+    <dbblPayingCost xml:space="preserve"> </dbblPayingCost>
+    <dbblPayed xml:space="preserve"> </dbblPayed>
+    <dbblDept xml:space="preserve"> </dbblDept>
+    <dbblBookingSource xml:space="preserve"> </dbblBookingSource>
+    <dbblMealType xml:space="preserve"> </dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate xml:space="preserve"> </dbblCreatingDate>
+    <dbblBirthday xml:space="preserve"> </dbblBirthday>
+    <dbblPassportSeries xml:space="preserve"> </dbblPassportSeries>
+    <dbblPassportNumber xml:space="preserve"> </dbblPassportNumber>
+    <dbblPassportOutcomeDate xml:space="preserve"> </dbblPassportOutcomeDate>
+    <dbblUnitCodeU1 xml:space="preserve"> </dbblUnitCodeU1>
+    <dbblUnitCodeU2 xml:space="preserve"> </dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven xml:space="preserve"> </dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID />
+    <dbblIDRoom />
+    <dbblName />
+    <dbblNumPlaces />
+    <dbblCheckInTime />
+    <dbblDateIncoming />
+    <dbblCheckOutTime />
+    <ddblDateOutComing />
+    <dbblBookingStatus />
+    <dbblAdultPlaces />
+    <dbblPayingCost />
+    <dbblPayed />
+    <dbblDept />
+    <dbblBookingSource />
+    <dbblMealType />
+    <dbblComment />
+    <dbblCreatingDate />
+    <dbblBirthday />
+    <dbblPassportSeries />
+    <dbblPassportNumber />
+    <dbblPassportOutcomeDate />
+    <dbblUnitCodeU1 />
+    <dbblUnitCodeU2 />
+    <dbblPassportWhomitwasgiven />
+  </BookingList>
+</DocumentElement>

@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BookingList" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BookingList">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="dbblID" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblIDRoom" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblName" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblNumPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCheckInTime" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblDateIncoming" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCheckOutTime" type="xs:string" minOccurs="0" />
+                <xs:element name="ddblDateOutComing" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBookingStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblAdultPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPayingCost" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPayed" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblDept" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBookingSource" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblMealType" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblComment" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCreatingDate" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBirthday" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportSeries" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportOutcomeDate" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblUnitCodeU1" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblUnitCodeU2" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportWhomitwasgiven" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BookingList>
+    <dbblID />
+    <dbblIDRoom />
+    <dbblName />
+    <dbblNumPlaces />
+    <dbblCheckInTime />
+    <dbblDateIncoming />
+    <dbblCheckOutTime />
+    <ddblDateOutComing />
+    <dbblBookingStatus />
+    <dbblAdultPlaces />
+    <dbblPayingCost />
+    <dbblPayed />
+    <dbblDept />
+    <dbblBookingSource />
+    <dbblMealType />
+    <dbblComment />
+    <dbblCreatingDate />
+    <dbblBirthday />
+    <dbblPassportSeries />
+    <dbblPassportNumber />
+    <dbblPassportOutcomeDate />
+    <dbblUnitCodeU1 />
+    <dbblUnitCodeU2 />
+    <dbblPassportWhomitwasgiven />
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 12072020153646</dbblID>
+    <dbblIDRoom>Комната:</dbblIDRoom>
+    <dbblName>Никита Шапаренко</dbblName>
+    <dbblNumPlaces>2</dbblNumPlaces>
+    <dbblCheckInTime>12:30</dbblCheckInTime>
+    <dbblDateIncoming>12.07.2020 15:36:46</dbblDateIncoming>
+    <dbblCheckOutTime>10:45</dbblCheckOutTime>
+    <ddblDateOutComing>12.07.2020 15:36:45</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>2</dbblAdultPlaces>
+    <dbblPayingCost>1200</dbblPayingCost>
+    <dbblPayed>1200</dbblPayed>
+    <dbblDept>0</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>FB</dbblMealType>
+    <dbblComment>Дайте ему номер президентского класса, кодовое имя "Рич Бичес".
+10 блэкджеков и 10 куртизанок входит в стоимость.
+Админ этой вашей заскриненной х</dbblComment>
+    <dbblCreatingDate>12.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>16.02.2000 15:36:46</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>03.03.2014 15:36:46</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>780</dbblUnitCodeU1>
+    <dbblUnitCodeU2>020</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ГУ МВД России по г. Санкт-Петербургу и Ленинградской области</dbblPassportWhomitwasgiven>
+  </BookingList>
+</NewDataSet>

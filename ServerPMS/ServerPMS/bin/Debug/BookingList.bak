@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BookingList" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BookingList">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="dbblID" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblIDRoom" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblName" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblNumPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCheckInTime" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblDateIncoming" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCheckOutTime" type="xs:string" minOccurs="0" />
+                <xs:element name="ddblDateOutComing" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBookingStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblAdultPlaces" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPayingCost" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPayed" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblDept" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBookingSource" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblMealType" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblComment" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblCreatingDate" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblBirthday" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportSeries" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportOutcomeDate" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblUnitCodeU1" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblUnitCodeU2" type="xs:string" minOccurs="0" />
+                <xs:element name="dbblPassportWhomitwasgiven" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BookingList>
+    <dbblID />
+    <dbblIDRoom />
+    <dbblName />
+    <dbblNumPlaces />
+    <dbblCheckInTime />
+    <dbblDateIncoming />
+    <dbblCheckOutTime />
+    <ddblDateOutComing />
+    <dbblBookingStatus />
+    <dbblAdultPlaces />
+    <dbblPayingCost />
+    <dbblPayed />
+    <dbblDept />
+    <dbblBookingSource />
+    <dbblMealType />
+    <dbblComment />
+    <dbblCreatingDate />
+    <dbblBirthday />
+    <dbblPassportSeries />
+    <dbblPassportNumber />
+    <dbblPassportOutcomeDate />
+    <dbblUnitCodeU1 />
+    <dbblUnitCodeU2 />
+    <dbblPassportWhomitwasgiven />
+  </BookingList>
+</NewDataSet>

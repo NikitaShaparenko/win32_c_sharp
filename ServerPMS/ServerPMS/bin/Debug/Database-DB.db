@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Database>
+    <databaseID>1507202025121</databaseID>
+    <databaseNames>Номер1</databaseNames>
+    <databaseAdultPlaces>4</databaseAdultPlaces>
+    <databaseChildrenPlaces>2</databaseChildrenPlaces>
+    <databaseMoneyVector1>1300</databaseMoneyVector1>
+    <databaseMoneyVector2>1650</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025131</databaseID>
+    <databaseNames>Номер2</databaseNames>
+    <databaseAdultPlaces>6</databaseAdultPlaces>
+    <databaseChildrenPlaces>2</databaseChildrenPlaces>
+    <databaseMoneyVector1>1400</databaseMoneyVector1>
+    <databaseMoneyVector2>1750</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025137</databaseID>
+    <databaseNames>Номе3</databaseNames>
+    <databaseAdultPlaces>6</databaseAdultPlaces>
+    <databaseChildrenPlaces>4</databaseChildrenPlaces>
+    <databaseMoneyVector1>1700</databaseMoneyVector1>
+    <databaseMoneyVector2>2100</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025145</databaseID>
+    <databaseNames>Номер4</databaseNames>
+    <databaseAdultPlaces>6</databaseAdultPlaces>
+    <databaseChildrenPlaces>6</databaseChildrenPlaces>
+    <databaseMoneyVector1>1700</databaseMoneyVector1>
+    <databaseMoneyVector2>2300</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025152</databaseID>
+    <databaseNames>Номер5</databaseNames>
+    <databaseAdultPlaces>2</databaseAdultPlaces>
+    <databaseChildrenPlaces>1</databaseChildrenPlaces>
+    <databaseMoneyVector1>1900</databaseMoneyVector1>
+    <databaseMoneyVector2>2400</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025200</databaseID>
+    <databaseNames>Номер6</databaseNames>
+    <databaseAdultPlaces>1</databaseAdultPlaces>
+    <databaseChildrenPlaces>6</databaseChildrenPlaces>
+    <databaseMoneyVector1>2100</databaseMoneyVector1>
+    <databaseMoneyVector2>2700</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025210</databaseID>
+    <databaseNames>Номер7</databaseNames>
+    <databaseAdultPlaces>5</databaseAdultPlaces>
+    <databaseChildrenPlaces>1</databaseChildrenPlaces>
+    <databaseMoneyVector1>2250</databaseMoneyVector1>
+    <databaseMoneyVector2>3000</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025219</databaseID>
+    <databaseNames>Номер8</databaseNames>
+    <databaseAdultPlaces>2</databaseAdultPlaces>
+    <databaseChildrenPlaces>5</databaseChildrenPlaces>
+    <databaseMoneyVector1>2400</databaseMoneyVector1>
+    <databaseMoneyVector2>3900</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025229</databaseID>
+    <databaseNames>Номер9</databaseNames>
+    <databaseAdultPlaces>1</databaseAdultPlaces>
+    <databaseChildrenPlaces>6</databaseChildrenPlaces>
+    <databaseMoneyVector1>2550</databaseMoneyVector1>
+    <databaseMoneyVector2>4150</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>1507202025256</databaseID>
+    <databaseNames>Номер10</databaseNames>
+    <databaseAdultPlaces>4</databaseAdultPlaces>
+    <databaseChildrenPlaces>6</databaseChildrenPlaces>
+    <databaseMoneyVector1>3300</databaseMoneyVector1>
+    <databaseMoneyVector2>4650</databaseMoneyVector2>
+    <databaseMoneyVector3 xml:space="preserve"> </databaseMoneyVector3>
+    <databaseMoneyVector4 xml:space="preserve"> </databaseMoneyVector4>
+    <databaseMoneyVector5 xml:space="preserve"> </databaseMoneyVector5>
+    <databaseMoneyVector6 xml:space="preserve"> </databaseMoneyVector6>
+    <databaseMoneyVector7 xml:space="preserve"> </databaseMoneyVector7>
+    <databaseMoneyVector8 xml:space="preserve"> </databaseMoneyVector8>
+    <databaseMoneyVector9 xml:space="preserve"> </databaseMoneyVector9>
+    <databaseMoneyVector10 xml:space="preserve"> </databaseMoneyVector10>
+  </Database>
+  <Database>
+    <databaseID>15072020183223</databaseID>
+    <databaseNames>Номер +1</databaseNames>
+    <databaseAdultPlaces>3</databaseAdultPlaces>
+    <databaseChildrenPlaces>5</databaseChildrenPlaces>
+    <databaseMoneyVector1>1400</databaseMoneyVector1>
+    <databaseMoneyVector2>3200</databaseMoneyVector2>
+    <databaseMoneyVector3 />
+    <databaseMoneyVector4 />
+    <databaseMoneyVector5 />
+    <databaseMoneyVector6 />
+    <databaseMoneyVector7 />
+    <databaseMoneyVector8 />
+    <databaseMoneyVector9 />
+    <databaseMoneyVector10 />
+  </Database>
+  <Database>
+    <databaseID />
+    <databaseNames />
+    <databaseAdultPlaces />
+    <databaseChildrenPlaces />
+    <databaseMoneyVector1 />
+    <databaseMoneyVector2 />
+    <databaseMoneyVector3 />
+    <databaseMoneyVector4 />
+    <databaseMoneyVector5 />
+    <databaseMoneyVector6 />
+    <databaseMoneyVector7 />
+    <databaseMoneyVector8 />
+    <databaseMoneyVector9 />
+    <databaseMoneyVector10 />
+  </Database>
+</DocumentElement>

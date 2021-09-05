@@ -1,0 +1,393 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020200211</dbblID>
+    <dbblIDRoom>15072020200211</dbblIDRoom>
+    <dbblName>Бронь1507-2</dbblName>
+    <dbblNumPlaces>8</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>20.09.2020 20:02:11</dbblDateIncoming>
+    <dbblCheckOutTime>11:15</dbblCheckOutTime>
+    <ddblDateOutComing>25.09.2020 20:02:11</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>4</dbblAdultPlaces>
+    <dbblPayingCost>1400</dbblPayingCost>
+    <dbblPayed>30000</dbblPayed>
+    <dbblDept>-28600</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>OB</dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate>19.09.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 20:02:11</dbblBirthday>
+    <dbblPassportSeries>918</dbblPassportSeries>
+    <dbblPassportNumber>122222</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 20:02:11</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>111</dbblUnitCodeU1>
+    <dbblUnitCodeU2>343</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184455</dbblIDRoom>
+    <dbblName>Бронь2</dbblName>
+    <dbblNumPlaces>8</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>01.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>10:15</dbblCheckOutTime>
+    <ddblDateOutComing>10.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>non_confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>4</dbblAdultPlaces>
+    <dbblPayingCost>1500</dbblPayingCost>
+    <dbblPayed>1600</dbblPayed>
+    <dbblDept>-100</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>OB</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 18:47:01</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>444</dbblUnitCodeU1>
+    <dbblUnitCodeU2>666</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184504</dbblIDRoom>
+    <dbblName>Бронь3</dbblName>
+    <dbblNumPlaces>1</dbblNumPlaces>
+    <dbblCheckInTime>12:0</dbblCheckInTime>
+    <dbblDateIncoming>02.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>11.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>overbooking</dbblBookingStatus>
+    <dbblAdultPlaces>5</dbblAdultPlaces>
+    <dbblPayingCost>1600</dbblPayingCost>
+    <dbblPayed>1200</dbblPayed>
+    <dbblDept>400</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>FBPlus</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 18:47:01</dbblBirthday>
+    <dbblPassportSeries>4014</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184512</dbblIDRoom>
+    <dbblName>Бронь4</dbblName>
+    <dbblNumPlaces>5</dbblNumPlaces>
+    <dbblCheckInTime>14:45</dbblCheckInTime>
+    <dbblDateIncoming>08.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:15</dbblCheckOutTime>
+    <ddblDateOutComing>25.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>dening</dbblBookingStatus>
+    <dbblAdultPlaces>2</dbblAdultPlaces>
+    <dbblPayingCost>122</dbblPayingCost>
+    <dbblPayed>2333</dbblPayed>
+    <dbblDept>-2211</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>FBPlus</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 18:47:01</dbblBirthday>
+    <dbblPassportSeries>4014</dbblPassportSeries>
+    <dbblPassportNumber>918555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184523</dbblIDRoom>
+    <dbblName>Бронь5</dbblName>
+    <dbblNumPlaces>7</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>15.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>30.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>accommodation</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>450</dbblPayingCost>
+    <dbblPayed>400</dbblPayed>
+    <dbblDept>50</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>HB</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 18:47:01</dbblBirthday>
+    <dbblPassportSeries>3018</dbblPassportSeries>
+    <dbblPassportNumber>198555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184533</dbblIDRoom>
+    <dbblName>Бронь6</dbblName>
+    <dbblNumPlaces>2</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>17.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>25.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>1</dbblAdultPlaces>
+    <dbblPayingCost>650</dbblPayingCost>
+    <dbblPayed>600</dbblPayed>
+    <dbblDept>50</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>UAI</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 18:47:01</dbblBirthday>
+    <dbblPassportSeries>208</dbblPassportSeries>
+    <dbblPassportNumber>155555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>01.01.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>555</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург и Тэгу</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184543</dbblIDRoom>
+    <dbblName>Бронь7</dbblName>
+    <dbblNumPlaces>5</dbblNumPlaces>
+    <dbblCheckInTime>14:45</dbblCheckInTime>
+    <dbblDateIncoming>18.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>12:45</dbblCheckOutTime>
+    <ddblDateOutComing>21.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>1</dbblAdultPlaces>
+    <dbblPayingCost>1250</dbblPayingCost>
+    <dbblPayed>1290</dbblPayed>
+    <dbblDept>-40</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>BB</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут и никогда завозить не будут</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>10.12.2019 18:47:01</dbblBirthday>
+    <dbblPassportSeries>2086</dbblPassportSeries>
+    <dbblPassportNumber>155555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>01.01.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>311</dbblUnitCodeU1>
+    <dbblUnitCodeU2>999</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург и Тэгу и Тэджон</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184551</dbblIDRoom>
+    <dbblName>Бронь8</dbblName>
+    <dbblNumPlaces>7</dbblNumPlaces>
+    <dbblCheckInTime>14:45</dbblCheckInTime>
+    <dbblDateIncoming>10.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>20.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>non_confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>2500</dbblPayingCost>
+    <dbblPayed>1290</dbblPayed>
+    <dbblDept>1210</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>FB</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут и никогда завозить не будут</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>27.05.2019 18:47:01</dbblBirthday>
+    <dbblPassportSeries>2086</dbblPassportSeries>
+    <dbblPassportNumber>155555</dbblPassportNumber>
+    <dbblPassportOutcomeDate>01.01.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>655</dbblUnitCodeU1>
+    <dbblUnitCodeU2>333</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург и Тэгу и Тэджон и Сеула</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184601</dbblIDRoom>
+    <dbblName>Бронь9</dbblName>
+    <dbblNumPlaces>5</dbblNumPlaces>
+    <dbblCheckInTime>14:45</dbblCheckInTime>
+    <dbblDateIncoming>11.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>12:45</dbblCheckOutTime>
+    <ddblDateOutComing>30.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>overbooking</dbblBookingStatus>
+    <dbblAdultPlaces>4</dbblAdultPlaces>
+    <dbblPayingCost>2500</dbblPayingCost>
+    <dbblPayed>1290</dbblPayed>
+    <dbblDept>1210</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>HBPlus</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут и никогда завозить не будут и никогда</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>26.06.2000 18:47:01</dbblBirthday>
+    <dbblPassportSeries>2099</dbblPassportSeries>
+    <dbblPassportNumber>166666</dbblPassportNumber>
+    <dbblPassportOutcomeDate>01.01.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>655</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург и Тэгу и Тэджон и Сеула и Нью-Йорка</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020184701</dbblID>
+    <dbblIDRoom>15072020184619</dbblIDRoom>
+    <dbblName>Бронь10</dbblName>
+    <dbblNumPlaces>7</dbblNumPlaces>
+    <dbblCheckInTime>12:15</dbblCheckInTime>
+    <dbblDateIncoming>10.08.2020 18:47:01</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>23.08.2020 18:47:01</ddblDateOutComing>
+    <dbblBookingStatus>dening</dbblBookingStatus>
+    <dbblAdultPlaces>4</dbblAdultPlaces>
+    <dbblPayingCost>12000</dbblPayingCost>
+    <dbblPayed>23000</dbblPayed>
+    <dbblDept>-11000</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>HB</dbblMealType>
+    <dbblComment>Комментарий к брони пока не завезли и не завезут и никогда завозить не будут и никогда но не всегда</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>01.03.2000 18:47:01</dbblBirthday>
+    <dbblPassportSeries>1099</dbblPassportSeries>
+    <dbblPassportNumber>104777</dbblPassportNumber>
+    <dbblPassportOutcomeDate>01.01.2020 18:47:01</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>655</dbblUnitCodeU1>
+    <dbblUnitCodeU2>777</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями и Осаки и Москвы и Санкт-Петербург и Тэгу и Тэджон и Сеула и Нью-Йорка</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020195059</dbblID>
+    <dbblIDRoom>15072020184633</dbblIDRoom>
+    <dbblName>Номер11</dbblName>
+    <dbblNumPlaces>5</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>19.08.2020 19:50:59</dbblDateIncoming>
+    <dbblCheckOutTime>12:30</dbblCheckOutTime>
+    <ddblDateOutComing>22.08.2020 19:50:59</ddblDateOutComing>
+    <dbblBookingStatus>accommodation</dbblBookingStatus>
+    <dbblAdultPlaces>2</dbblAdultPlaces>
+    <dbblPayingCost>1200</dbblPayingCost>
+    <dbblPayed>2000</dbblPayed>
+    <dbblDept>-800</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>HBPlus</dbblMealType>
+    <dbblComment>Коммент 1</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2006 19:50:59</dbblBirthday>
+    <dbblPassportSeries>4013</dbblPassportSeries>
+    <dbblPassportNumber>111222</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 19:50:59</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>222</dbblUnitCodeU1>
+    <dbblUnitCodeU2>111</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Кольского района</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020200211</dbblID>
+    <dbblIDRoom>15072020184633</dbblIDRoom>
+    <dbblName>Бронь1507</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>15.08.2020 20:02:11</dbblDateIncoming>
+    <dbblCheckOutTime>12:45</dbblCheckOutTime>
+    <ddblDateOutComing>31.08.2020 20:02:11</ddblDateOutComing>
+    <dbblBookingStatus>non_confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>1300</dbblPayingCost>
+    <dbblPayed>1500</dbblPayed>
+    <dbblDept>-200</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>BB</dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 20:02:11</dbblBirthday>
+    <dbblPassportSeries>918</dbblPassportSeries>
+    <dbblPassportNumber>122222</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 20:02:11</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>111</dbblUnitCodeU1>
+    <dbblUnitCodeU2>232</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020200211</dbblID>
+    <dbblIDRoom>15072020184633</dbblIDRoom>
+    <dbblName>Бронь1507-2</dbblName>
+    <dbblNumPlaces>8</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>07.08.2020 20:02:11</dbblDateIncoming>
+    <dbblCheckOutTime>11:15</dbblCheckOutTime>
+    <ddblDateOutComing>21.08.2020 20:02:11</ddblDateOutComing>
+    <dbblBookingStatus>overbooking</dbblBookingStatus>
+    <dbblAdultPlaces>4</dbblAdultPlaces>
+    <dbblPayingCost>1400</dbblPayingCost>
+    <dbblPayed>30000</dbblPayed>
+    <dbblDept>-28600</dbblDept>
+    <dbblBookingSource>reception</dbblBookingSource>
+    <dbblMealType>HBPlus</dbblMealType>
+    <dbblComment xml:space="preserve"> </dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2020 20:02:11</dbblBirthday>
+    <dbblPassportSeries>918</dbblPassportSeries>
+    <dbblPassportNumber>122222</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 20:02:11</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>111</dbblUnitCodeU1>
+    <dbblUnitCodeU2>343</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID>ID бронирования: 15072020204556</dbblID>
+    <dbblIDRoom>15072020184443</dbblIDRoom>
+    <dbblName>Бронь1507-2</dbblName>
+    <dbblNumPlaces>6</dbblNumPlaces>
+    <dbblCheckInTime>13:30</dbblCheckInTime>
+    <dbblDateIncoming>08.08.2020 20:45:55</dbblDateIncoming>
+    <dbblCheckOutTime>11:30</dbblCheckOutTime>
+    <ddblDateOutComing>25.08.2020 20:45:55</ddblDateOutComing>
+    <dbblBookingStatus>non_confirmed</dbblBookingStatus>
+    <dbblAdultPlaces>3</dbblAdultPlaces>
+    <dbblPayingCost>1500</dbblPayingCost>
+    <dbblPayed>3200</dbblPayed>
+    <dbblDept>-1700</dbblDept>
+    <dbblBookingSource>travel_agency</dbblBookingSource>
+    <dbblMealType>HBPlus</dbblMealType>
+    <dbblComment>Коммент</dbblComment>
+    <dbblCreatingDate>15.07.2020 0:00:00</dbblCreatingDate>
+    <dbblBirthday>15.07.2002 20:45:55</dbblBirthday>
+    <dbblPassportSeries>1222</dbblPassportSeries>
+    <dbblPassportNumber>421345</dbblPassportNumber>
+    <dbblPassportOutcomeDate>15.07.2020 20:45:55</dbblPassportOutcomeDate>
+    <dbblUnitCodeU1>421</dbblUnitCodeU1>
+    <dbblUnitCodeU2>215</dbblUnitCodeU2>
+    <dbblPassportWhomitwasgiven>ОВД Майями</dbblPassportWhomitwasgiven>
+  </BookingList>
+  <BookingList>
+    <dbblID />
+    <dbblIDRoom />
+    <dbblName />
+    <dbblNumPlaces />
+    <dbblCheckInTime />
+    <dbblDateIncoming />
+    <dbblCheckOutTime />
+    <ddblDateOutComing />
+    <dbblBookingStatus />
+    <dbblAdultPlaces />
+    <dbblPayingCost />
+    <dbblPayed />
+    <dbblDept />
+    <dbblBookingSource />
+    <dbblMealType />
+    <dbblComment />
+    <dbblCreatingDate />
+    <dbblBirthday />
+    <dbblPassportSeries />
+    <dbblPassportNumber />
+    <dbblPassportOutcomeDate />
+    <dbblUnitCodeU1 />
+    <dbblUnitCodeU2 />
+    <dbblPassportWhomitwasgiven />
+  </BookingList>
+</DocumentElement>
